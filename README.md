@@ -97,7 +97,7 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 NAME:KIRTIKROSHAN G R
 REG NO:212221043002
 #include "main.h"
@@ -208,7 +208,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-
+```
 
 ## Output screen shots on serial monitor   :
  ![278674584-4670b7bc-8467-4fbe-8d0f-8203734d9389](https://github.com/BharathCSEIOT/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/122793480/04da335e-6b04-4b82-95a1-eb920c9d6881)
